@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: fd80a4ffea95a4923bcbc585c716ad71
+timeCreated: 1498683555
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74bcfd11c089b4ee88534f3d6cbcc3a0, type: 3}
+  - {fileID: 12800000, guid: b64d1ed380cfb421bb7279f311600a6e, type: 3}
+  - {fileID: 12800000, guid: 002b8b846ef5043e79ac913d7d2cafdb, type: 3}
+  - {fileID: 12800000, guid: 34330325225b6457f9372671e62960b1, type: 3}
+  - {fileID: 12800000, guid: 985dc358be9d4457485f509bec2a3f01, type: 3}
+  - {fileID: 12800000, guid: 1995a3a83cf594de6870dc61167b2184, type: 3}
+  - {fileID: 12800000, guid: 15f5ca7c4c2e04774b540d53f0689749, type: 3}
+  - {fileID: 12800000, guid: 8aad4bae3131849ce805388911a7153d, type: 3}
+  - {fileID: 12800000, guid: f45bcd7ff5f4d4044861adcc6fad29a4, type: 3}
+  - {fileID: 12800000, guid: 55b355ef65d284b7e9434381d082e400, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
